@@ -1,3 +1,3 @@
-# Starter code for Faucet dApp tutorial
+# LoveToken Faucet
 
-Boilerplate code consisting of a new create-react-app project and some basic HTML and CSS.
+A faucet website for LOVE - an ERC20 token on Goerli testnet

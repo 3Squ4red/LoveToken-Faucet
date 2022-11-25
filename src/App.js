@@ -170,7 +170,7 @@ function App() {
       <section className="hero is-fullheight">
         <div className="faucet-hero-body">
           <div className="container has-text-centered main-content">
-            <h1 className="title is-1">FACUET</h1>
+            <h1 className="title is-1">Faucet</h1>
             <p>Quick and lovely, get 20 LOVE each day.</p>
             <div className="mt-5">
               {withdrawError && (

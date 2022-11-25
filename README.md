@@ -1,6 +1,6 @@
 # LoveToken Faucet
 
-A quick, lovely faucet website for LOVE - an ERC20 token on Goerli testnet
+A quick, lovely faucet website for LOVE - an ERC20 token on Goerli testnet. This dApp is deployed on [IPFS](https://ipfs.tech/), meaning it's completely Decentralized! Unlike those 'dApps' who whose websites are published on a centralized platform.
 
 ## Tokenomics
 - Max supply of LOVE will never exceed 100 million
@@ -21,7 +21,7 @@ A quick, lovely faucet website for LOVE - an ERC20 token on Goerli testnet
 ## Demo 🚀
 - **LoveToken** contract: [LOVE](https://goerli.etherscan.io/token/0x0203b585f090C7Fd0694003f098cbe0A1F5dbFab)
 - **LoveFaucet** contract: [LoveFaucet](https://goerli.etherscan.io/address/0x8263754F5854F0bccb8606af594C667325366abd)
-- LoveFaucet website: [Faucet](https://love-token-faucet.vercel.app/)
+- LoveFaucet website IPFS link: [Faucet](https://ipfs.fleek.co/ipfs/QmWAonf9Zjfxmux6sYRWbFNyg184A8vK2NtaEZkt3X4vGw/)
 
 ## Tech Stack
 JavaScritpt along with the React framework and the Bulma CSS library was used to create the frontend.

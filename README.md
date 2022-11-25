@@ -1,6 +1,6 @@
 # LoveToken Faucet
 
-A quick, lovely faucet website for LOVE - an ERC20 token on Goerli testnet. This dApp is deployed on [IPFS](https://ipfs.tech/), meaning it's completely Decentralized! Unlike those 'dApps' who whose websites are published on a centralized platform.
+A quick, lovely faucet website for LOVE - an ERC20 token on Goerli testnet. This dApp is deployed on [IPFS](https://ipfs.tech/) using [Fleet](https://fleek.co/), meaning it's completely Decentralized! Unlike those 'dApps' who whose websites are published on a centralized platform.
 
 ## Tokenomics
 - Max supply of LOVE will never exceed 100 million
